@@ -1,0 +1,18 @@
+mode: set
+hw1/rewrite/rewrite.go:15.34,17.42 1 1
+hw1/rewrite/rewrite.go:17.42,20.13 2 1
+hw1/rewrite/rewrite.go:24.3,25.13 2 1
+hw1/rewrite/rewrite.go:30.3,30.43 1 1
+hw1/rewrite/rewrite.go:34.3,34.30 1 1
+hw1/rewrite/rewrite.go:39.3,40.41 2 1
+hw1/rewrite/rewrite.go:45.3,49.18 3 1
+hw1/rewrite/rewrite.go:54.3,66.14 5 1
+hw1/rewrite/rewrite.go:20.13,22.4 1 1
+hw1/rewrite/rewrite.go:25.13,27.4 1 1
+hw1/rewrite/rewrite.go:30.43,32.4 1 1
+hw1/rewrite/rewrite.go:34.30,36.4 1 1
+hw1/rewrite/rewrite.go:40.41,42.4 1 1
+hw1/rewrite/rewrite.go:49.18,51.4 1 1
+hw1/rewrite/rewrite.go:70.46,73.16 3 1
+hw1/rewrite/rewrite.go:77.2,81.21 4 1
+hw1/rewrite/rewrite.go:73.16,74.35 1 1

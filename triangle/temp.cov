@@ -1,0 +1,22 @@
+mode: set
+hw1/triangle/triangle.go:13.35,14.14 1 1
+hw1/triangle/triangle.go:17.2,17.14 1 1
+hw1/triangle/triangle.go:20.2,20.14 1 1
+hw1/triangle/triangle.go:23.2,23.13 1 1
+hw1/triangle/triangle.go:14.14,16.3 1 1
+hw1/triangle/triangle.go:17.14,19.3 1 1
+hw1/triangle/triangle.go:20.14,22.3 1 1
+hw1/triangle/triangle.go:26.48,27.9 1 1
+hw1/triangle/triangle.go:41.2,41.26 1 1
+hw1/triangle/triangle.go:44.2,44.22 1 1
+hw1/triangle/triangle.go:28.17,29.25 1 1
+hw1/triangle/triangle.go:30.17,31.25 1 1
+hw1/triangle/triangle.go:32.17,33.25 1 1
+hw1/triangle/triangle.go:34.14,35.25 1 1
+hw1/triangle/triangle.go:36.14,37.25 1 1
+hw1/triangle/triangle.go:38.14,39.25 1 1
+hw1/triangle/triangle.go:41.26,43.3 1 1
+hw1/triangle/triangle.go:44.22,46.3 1 1
+hw1/triangle/triangle.go:46.8,46.28 1 1
+hw1/triangle/triangle.go:46.28,48.3 1 1
+hw1/triangle/triangle.go:48.8,50.3 1 1
